@@ -40,7 +40,7 @@ The notebooks are stored **with their outputs**, so they can be read directly on
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-account>/nanoparticle-bo-tutorial.git
+git clone https://github.com/Sakinameftah/nanoparticle-bo-tutorial.git
 cd nanoparticle-bo-tutorial
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt

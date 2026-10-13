@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nanobo"
+version = "0.1.0"
+description = "A minimal, readable Bayesian-optimisation loop for nanoparticle synthesis (teaching code)"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Sakina Meftah"}]
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.24", "scipy>=1.10", "pandas>=2.0", "scikit-learn>=1.3"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "Bayesian optimisation for nanoparticle synthesis: a tutorial for chemists"
+type: software
+version: 0.1.0
+date-released: 2026-10-14
+license: MIT
+authors:
+  - family-names: Meftah
+    given-names: Sakina
+    orcid: "https://orcid.org/0009-0007-9598-7109"
+keywords:
+  - Bayesian optimisation
+  - Gaussian process
+  - nanoparticle synthesis
+  - self-driving laboratory
+  - design of experiments
